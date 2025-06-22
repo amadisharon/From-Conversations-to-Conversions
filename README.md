@@ -3,6 +3,11 @@ A data-driven analysis revealing how agent’s productivity, call volume, and ti
 ## 📖 **Introduction**
 
 In today’s service-driven economy, efficiency isn't just about doing more — it’s about converting effort and time into value. For HENIS Plc, where customer interaction data is rich and multi-layered, understanding how **calls**, **productive time**, and **quotation volume** interact is essential to improving service outcomes as well as profit generation. This analysis unpacks **86,000 calls**, **18,000 productive hours**, and **\$47,000 in quotations**, revealing trends, standout performances, and opportunities for deeper strategic alignment.
+
+## **Project**
+Link to view project in power BI service 
+
+https://app.powerbi.com/view?r=eyJrIjoiYzgyMWM2NTktZGU1ZS00MjUwLWIwMTEtYTAwZDkwOWY1ODkwIiwidCI6IjQ1YjIyMTQ2LTA0ODgtNDUzMC04MmQ2LTU5ZjJiOGEyNzY1NyJ9&pageName=ReportSection35aa8ef0be16957d0450
 ## 🧩 **Methodology**
 
 This analysis was conducted using **Power BI**, where the dataset was transformed into a star schema model. The key steps involved:
